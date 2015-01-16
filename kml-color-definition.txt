@@ -1,0 +1,16 @@
+KML Color definition
+
+red
+000000ff
+
+green
+0000ff00
+
+blue
+00ff0000
+
+alpha
+ff000000
+
+
+alpha-blue-green-red
